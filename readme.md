@@ -3,4 +3,4 @@
 3 Раздел - <br/>
 4 Раздел -
 
- [DESIGN](https://www.figma.com/file/MWvIzBB3sWKy6PCh3nsdXi/ "LINK TO FIGMA")
+ 
